@@ -1,0 +1,12 @@
+# pertemuan-06
+
+NIM : 2511500087<br>
+Nama : M. Adiib Al-Faathir<br>
+<ol>
+belajar:<br>
+<ul>
+    <li>echo di hello.php</li>
+    <li>copy paste index.html, style.css, dan script.js ke folder pertemuan-06</li>
+    <li>copy index.html dan rename hasil copy ke index.php</li>
+    <li>variabel php</li>
+</ul>
