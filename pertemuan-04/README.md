@@ -1,6 +1,7 @@
 # pertemuan-04
 
-NIM:2511500091<br>
+NIM:2511500087<br>
+Nama : M. Adiib Al-Faathir<br>
 
 Hari ini, Rabu 15 Oktober 2025, saya mempelajari;
 <ul>
