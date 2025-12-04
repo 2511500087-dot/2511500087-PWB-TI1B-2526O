@@ -3,4 +3,5 @@
 <li>membuat tbl_tamu di koneksi.php</li>
 <li>menambahkan read.php di pertemuan-10</li>
 <li>menambahkan nl2br di read.php</li>
+<li>melakukan rekaman record 3 kali di tbl_tamu</li>
 </ol>
